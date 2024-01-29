@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="C:/Users/olive/git/FASM/lib/jung/jung-1.7.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/olive/git/FASM/lib/fasm.jar"/>
 	<classpathentry kind="lib" path="C:/Users/olive/git/FASM/lib/swt/swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/olive/git/FASM/run/log"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
